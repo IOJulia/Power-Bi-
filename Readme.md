@@ -1,0 +1,2 @@
+Geschäftsprozessoptimierung: Analyse und Bereinigung von CRM-Daten für die   Online-Schule (Python, Power B, Google Query, Google Presentation)
+Berechnete Unit-Wirtschaft, fand ein Wachstumspunkt.Es wurde eine umfassende Analyse der Werbekampagnen und des Managements durchgeführt. Es wurden Empfehlungen zur Optimierung der Zusammenarbeit mit Unternehmen gegeben, um hochwertige Leads zu generieren und gezielte Empfehlungen für jeden Mitarbeiter bereitzustellen
